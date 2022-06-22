@@ -1,0 +1,7 @@
+# Block all crawlers for /ssg-ssr
+User-agent: *
+Disallow: /ssg-ssr
+
+# Allow all crawlers
+User-agent: *
+Allow: /
